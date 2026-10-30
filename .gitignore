@@ -1,0 +1,27 @@
+# Python virtual environment
+
+.venv/
+venv/
+
+# Python cache
+
+**pycache**/
+*.py[cod]
+
+# Pytest
+
+.pytest_cache/
+
+# IDE settings
+
+.vscode/
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# Temporary files
+
+~$*
+.DS_Store
+
